@@ -14,4 +14,18 @@ Pour récuperer votre journalier toute les 24h !
 👨‍🏫 Modifier l'argent du journalier:
 
 Accedez à votre SFTP et chercher le fichier "JournalierData.json". 
-Ensuite modifier la valeur de base (750) au montant que vous souhaitez !
+
+
+Exemple du dossier json: 
+
+{
+    "dailyRewardAmount": 750
+}
+
+Ensuite modifier la valeur de base (750) au montant que vous souhaitez. Par exemple 1000 !
+
+{
+    "dailyRewardAmount": 1000
+}
+
+Et c'est configurer !
