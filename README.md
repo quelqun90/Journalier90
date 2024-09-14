@@ -2,6 +2,8 @@
 
 Pour récuperer votre journalier toute les 24h !
 
+Toute les 24h vous pouvez faire /journalier en jeu pour récolter votre argent quotidient !
+
 👨‍💻 Installation:
 
 1 - Télécharger le Journalier90.dll
